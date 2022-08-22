@@ -1,0 +1,30 @@
+{
+  "name": "Santa Cruz Nature Team retreat",
+  "overview": "Get your team together at a beautiful venue situated on 450 acres of grounds in the Santa Cruz Mountains. With plenty of activities and amenities on site, our Hilltop Hacienda retreat is perfect for teams looking to meet all their retreat needs onsite. This option is particularly well suited for teams located close to the bay area, and is within a 1 hour drive from SJC airport for those team members situated further afield.",
+  "nights": 4,
+  "rooms": 20,
+  "max_guests": 40,
+  "location": "Santa Cruz, CA",
+  "cost_per_head": "$1500",
+  "access_details": "Your group will have ready access to tennis, basketball, shuffleboard, and sand volleyball courts, ping pong tables, corn hole, giant chess, a putting green, play field, and hiking trails through the stunning Santa Cruz Mountains. This venue also has access to a Swimming Pool, large outdoor amphitheater with a stage for presentations or entertainment, evening campfire, hiking trails, ball sports.",
+  "cover": "santa-cruz-nature-team-retreat/941fda5e-8437-47d1-9e3c-303655fa6082.jpeg",
+  "agenda": [
+    { "image": "santa-cruz-nature-team-retreat/3a83c51e-3eb1-4b00-8cec-cde879d3246b.jpeg",
+      "events": [{"start_time": "4 pm", "description": "Arrive and get checked in"}, {"start_time": "6 pm", "description": "Welcome reception & icebreakers"},
+      {"start_time": "7.30 pm", "description": "Large group dinner"}]},
+    { "image": "santa-cruz-nature-team-retreat/7cc140aa-3e29-43ba-b910-caf0d05195ee.jpeg",
+      "events": [{"start_time": "8 am", "description": "Optional Yoga"}, {"start_time": "8.30 am", "description": "Buffet breakfast"},
+      {"start_time": "9.30 am", "description": "Company wide planning session"}, {"start_time": "11.30 am", "description": "Lunch & free time"},
+      {"start_time": "2:30 pm", "description": "Team breakouts"}, {"start_time": "4.30 pm", "description": "Trivia quiz"},
+      {"start_time": "6.30 pm", "description": "Make your own pizza night"}]},
+    { "image": "santa-cruz-nature-team-retreat/58a9e684-73e4-4b89-930a-99951e34b0de.jpeg",
+      "events": [{"start_time": "8 am", "description": "Optional Yoga"}, {"start_time": "8.30 am", "description": "Buffet breakfast"},
+      {"start_time": "9.30 am", "description": "Cross-functional hackathon"}, {"start_time": "11.30 am", "description": "Lunch & free time"},
+      {"start_time": "12:30 pm", "description": "Optional guided hike through the property"},
+      {"start_time": "2.30 pm", "description": "Ping Pong & Corn hole Championship"},
+      {"start_time": "4.30 pm", "description": "Sunset happy hour"}, {"start_time": "6.30 pm", "description": "Banquet dinner"}]},
+    { "image": "santa-cruz-nature-team-retreat/d2abf739-f72c-4bf7-8e1b-1fd24891d45e.jpeg",
+      "events": [{"start_time": "9 am", "description": "Send off breakfast"},
+      {"start_time": "10 am", "description": "Morning hike or depart at your leisure"}]}
+  ]
+}
